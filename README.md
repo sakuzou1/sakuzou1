@@ -1,4 +1,4 @@
-Are you ok?
+Are you good?
 
 <!--
 **sakuzou1/sakuzou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
